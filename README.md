@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Harsha59
+- 👋 Hi, I’m Harsha Varanasi
 - 👀 I’m interested in Writing Code and exploring new technologies
 - 🌱 I’m currently learning MLOps
 - 💞️ I’m looking to collaborate on https://www.linkedin.com/in/harsha-varanasi99431a912
